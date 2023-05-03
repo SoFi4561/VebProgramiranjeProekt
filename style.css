@@ -4,7 +4,7 @@
 .navbar-brand,
 .navbar-nav li a {
     font-family: Garamond, serif;
-    color: #BCD2CE; /* Change this to your desired color */
+    color: #BCD2CE; 
 }
 .navbar-brand:hover,
 .navbar-nav li a:hover{
@@ -16,7 +16,7 @@
     background-size:cover;
     position:relative;
 }
-/* text css above hero image*/
+
 .s_title {
     font-size: 4.5rem;
 	font-family:Garamond, serif;
@@ -89,7 +89,6 @@
 .fab {
     color: #BCD2CE;
 }
-/* footer styling */
 #footer {
     background-color: black;
     text-align: center;
